@@ -1,0 +1,12 @@
+Start X: 1.76514094324753
+Start Y: -2.03127745263629
+End X: -2.85974166159289
+End Y: 5.9823275718508
+Center X: 1.27040288928013
+Center Y: 3.02457403430007
+IncludedAngle: 3.99337004952561
+Radius: 5.08
+Parent Sketch Name: Sketch<1>
+Parent Sketch Plane: ZX-Plane
+Type: AD_CIRCULAR_ARC
+ID: 2

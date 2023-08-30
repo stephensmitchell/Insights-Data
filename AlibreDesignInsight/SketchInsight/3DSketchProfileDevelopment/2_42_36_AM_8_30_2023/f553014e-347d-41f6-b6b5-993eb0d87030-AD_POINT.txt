@@ -1,0 +1,6 @@
+Type: AD_POINT
+X: -4.76238776094754
+Y: 12.08061816597
+Z: 0
+Parent Sketch Name: 3D Sketch<1>
+Part Name: 3DSketchProfileDevelopment

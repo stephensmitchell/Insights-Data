@@ -1,0 +1,9 @@
+Center X: 2.66162490844727
+Center Y: 0.860511302947998
+Major Radius: 0.500515403055914
+MajorAxisAngle: 5.39900956402847
+MinorMajorRatio: 0.289938983099585
+Parent Sketch Name: Sketch<3>
+Parent Sketch Plane: XY-Plane
+Type: AD_ELLIPSE
+ID: 30

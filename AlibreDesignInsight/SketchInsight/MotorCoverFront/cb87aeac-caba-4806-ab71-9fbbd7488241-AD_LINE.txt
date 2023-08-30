@@ -1,0 +1,7 @@
+X1: -5.04112606910613
+Y1: 15.5274146057031
+X2: 16.9178255818199
+Y2: 8.36383302589997
+Parent Sketch Name: Sketch<10>
+Type: AD_LINE
+Part Name: MotorCoverFront

@@ -1,0 +1,6 @@
+Radius: 0.820275561710184
+Center X: -1.88817811081996
+Center Y: -15.7479999999999
+Parent Sketch Name: Sketch<8>
+Type: AD_CIRCLE
+Part Name: Case2

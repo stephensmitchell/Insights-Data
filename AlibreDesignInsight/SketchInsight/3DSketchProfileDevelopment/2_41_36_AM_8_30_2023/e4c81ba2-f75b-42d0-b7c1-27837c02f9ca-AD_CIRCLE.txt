@@ -1,0 +1,6 @@
+Type: AD_CIRCLE
+Radius: 0.254
+Center X: 0
+Center Y: 0
+Parent Sketch Name: Sketch<2>
+Part Name: 3DSketchProfileDevelopment

@@ -1,0 +1,9 @@
+X0: 155.51
+Y0: 170
+X1: 105.52
+Y1: 206.39
+Line: 155.51, 170, 105.52, 206.39
+Parent Sketch Name: Sketch<1>
+Type: AD_LINE
+Part Name: plate
+Length: 61.8394428489866

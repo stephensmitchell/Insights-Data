@@ -1,0 +1,6 @@
+Radius: 2.45813503202224
+Center X: 2.18756008148193
+Center Y: 5.14925956726074
+Parent Sketch Name: d
+Type: AD_CIRCLE
+Part Name: bodies55

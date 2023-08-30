@@ -1,0 +1,7 @@
+X1: -2.5647924079372
+Y1: -1.91886205587344
+X2: -2.13193324907193
+Y2: -1.90429476412657
+Parent Sketch Name: Sketch<1>
+Type: AD_LINE
+Part Name: BraceCap

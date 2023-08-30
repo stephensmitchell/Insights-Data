@@ -1,0 +1,6 @@
+Radius: 0.797773134281723
+Center X: 4.10433080844565E-16
+Center Y: -3.07692265764669
+Parent Sketch Name: Sketch<7>
+Type: AD_CIRCLE
+Part Name: MotorCoverFront

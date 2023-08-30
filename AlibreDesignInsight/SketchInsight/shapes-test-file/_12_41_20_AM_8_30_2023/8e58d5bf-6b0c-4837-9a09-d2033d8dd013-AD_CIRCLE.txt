@@ -1,0 +1,6 @@
+Radius: 0.336708828453184
+Center X: -4.26361656188965
+Center Y: -2.24342489242554
+Parent Sketch Name: Sketch<1>
+Type: AD_CIRCLE
+Part Name: shapes-test-file

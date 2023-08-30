@@ -1,0 +1,6 @@
+Radius: 12.1073518042592
+Center X: 0
+Center Y: 0
+Parent Sketch Name: Sketch<1>
+Type: AD_CIRCLE
+Part Name: Case2

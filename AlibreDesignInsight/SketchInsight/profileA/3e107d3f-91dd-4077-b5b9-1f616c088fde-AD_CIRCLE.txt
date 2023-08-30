@@ -1,0 +1,7 @@
+Radius: 0.476818560121719
+Center X: 1.21508979797363
+Center Y: 0.92652702331543
+Parent Sketch Name: Sketch<3>
+Parent Sketch Plane: XY-Plane
+Type: AD_CIRCLE
+ID: 11

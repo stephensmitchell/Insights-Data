@@ -1,0 +1,6 @@
+Radius: 2.26578870030571
+Center X: -1.77635683940016E-15
+Center Y: -2.46519032881578E-29
+Parent Sketch Name: Sketch<2>
+Type: AD_CIRCLE
+Part Name: BraceCap

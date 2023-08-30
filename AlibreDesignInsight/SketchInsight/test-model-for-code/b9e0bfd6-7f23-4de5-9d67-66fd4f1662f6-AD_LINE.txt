@@ -1,0 +1,9 @@
+X0: 0.63
+Y0: -3.99
+X1: 0.63
+Y1: 6.17
+Line: 0.63, -3.99, 0.63, 6.17
+Parent Sketch Name: Sketch<2>
+Type: AD_LINE
+Part Name: test-model-for-code
+Length: 10.16

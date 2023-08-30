@@ -1,0 +1,8 @@
+X1: 7.808
+Y1: 1.221
+X2: 9.967
+Y2: 0
+Parent Sketch Name: sk1
+Parent Sketch Plane: XY-Plane
+Type: AD_LINE
+ID: 3

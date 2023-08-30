@@ -1,0 +1,7 @@
+Radius: 4.445
+Center X: 0
+Center Y: 0
+Parent Sketch Name: Sketch<1>
+Parent Sketch Plane: ZX-Plane
+Type: AD_CIRCLE
+ID: 6

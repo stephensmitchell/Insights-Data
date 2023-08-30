@@ -1,0 +1,7 @@
+Radius: 0.299188116961627
+Center X: 0
+Center Y: 15.1913890838623
+Parent Sketch Name: Sketch<2>
+Type: AD_CIRCLE
+Part Name: 0_Alibre_3DPrinted_Vase
+Sketch Plane: YZ-Plane

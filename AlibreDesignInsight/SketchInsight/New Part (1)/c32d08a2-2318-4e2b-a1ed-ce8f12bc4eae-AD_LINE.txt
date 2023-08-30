@@ -1,0 +1,9 @@
+X0: -4.41
+Y0: 3.18
+X1: -5.21
+Y1: 3.18
+Line: -4.41, 3.18, -5.21, 3.18
+Parent Sketch Name: Sketch<1>
+Type: AD_LINE
+Part Name: New Part (1)
+Length: 0.795951843261721

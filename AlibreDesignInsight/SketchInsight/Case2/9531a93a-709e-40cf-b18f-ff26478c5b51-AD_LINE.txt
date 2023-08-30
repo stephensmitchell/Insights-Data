@@ -1,0 +1,7 @@
+X1: 12.1073518042592
+Y1: -12.7
+X2: 0
+Y2: -12.7
+Parent Sketch Name: Sketch<2>
+Type: AD_LINE
+Part Name: Case2

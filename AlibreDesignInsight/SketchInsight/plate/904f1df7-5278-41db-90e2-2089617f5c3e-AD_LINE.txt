@@ -1,0 +1,9 @@
+X0: 90
+Y0: 80
+X1: 90
+Y1: 0
+Line: 90, 80, 90, 0
+Parent Sketch Name: Sketch<1>
+Type: AD_LINE
+Part Name: plate
+Length: 80

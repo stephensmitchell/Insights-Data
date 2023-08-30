@@ -1,0 +1,5 @@
+Radius: 6.82315015792847
+Center X: 4.23502424448663E-09
+Center Y: 2.9304328234836E-10
+Parent Sketch Name: Sketch<11>
+Type: AD_CIRCLE

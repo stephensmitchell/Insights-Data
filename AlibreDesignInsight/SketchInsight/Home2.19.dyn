@@ -1,0 +1,233 @@
+{
+  "Uuid": "60c75caa-51d7-4619-95ba-47e437422391",
+  "IsCustomNode": false,
+  "Description": "",
+  "Name": "Home2.19",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "Id": "6b55b2a82e5c4cc4869f012d8a11605e",
+      "NodeType": "FunctionNode",
+      "Inputs": [
+        {
+          "Id": "0bc3d79d7f71483897e2eaf137b89a33",
+          "Name": "file",
+          "Description": "File object to read text from\n\nvar",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "4ab4ee106baa4995a7ffae9b12680e9a",
+          "Name": "string",
+          "Description": "Contents of the text file.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "FunctionSignature": "DSCore.IO.FileSystem.ReadText@var",
+      "Replication": "Auto",
+      "Description": "Reads a text file and returns the contents as a string.\n\nFileSystem.ReadText (file: var): string"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.FileObject, CoreNodeModels",
+      "Id": "be2b923f809440cc8332a0a3f2ed5daa",
+      "NodeType": "ExtensionNode",
+      "Inputs": [
+        {
+          "Id": "64305191178640a0993131a43a5d9a2a",
+          "Name": "path",
+          "Description": "Path to the file.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "4685bff457144d6b8acb06a9700c44d3",
+          "Name": "file",
+          "Description": "File object",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Creates a file object from the given path"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
+      "Id": "87912472515841af8a25bd2481021b17",
+      "NodeType": "ExtensionNode",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "9200f679de2440dabf042c65047b978b",
+          "Name": "",
+          "Description": "File Path",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Allows you to select a file on the system and returns its file path",
+      "HintPath": "C:\\Users\\steph\\Desktop\\SketchInsights\\plate\\f6732c19-1a6b-47ac-a1d0-c58a1e083491-AD_LINE.txt",
+      "InputValue": "plate\\f6732c19-1a6b-47ac-a1d0-c58a1e083491-AD_LINE.txt"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
+      "WatchWidth": 50.0,
+      "WatchHeight": 38.0,
+      "Id": "b8b1532648d64982bc3ab3f6c6d80c2d",
+      "NodeType": "ExtensionNode",
+      "Inputs": [
+        {
+          "Id": "3ebc52e14e5942aeb399290d9e739d52",
+          "Name": "",
+          "Description": "Node to show output from",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "96966dba222e4b899d84e2317f2b9499",
+          "Name": "",
+          "Description": "Node output",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Visualizes a node's output"
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "4ab4ee106baa4995a7ffae9b12680e9a",
+      "End": "3ebc52e14e5942aeb399290d9e739d52",
+      "Id": "6c692d806650447ea17ed593612ff6f4",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "4685bff457144d6b8acb06a9700c44d3",
+      "End": "0bc3d79d7f71483897e2eaf137b89a33",
+      "Id": "831c4d929ae647e1a577868adfcaa117",
+      "IsHidden": "False"
+    },
+    {
+      "Start": "9200f679de2440dabf042c65047b978b",
+      "End": "64305191178640a0993131a43a5d9a2a",
+      "Id": "d97156ff9c1148639b6fe5c119a05f3d",
+      "IsHidden": "False"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [],
+  "Thumbnail": "",
+  "GraphDocumentationURL": null,
+  "ExtensionWorkspaceData": [
+    {
+      "ExtensionGuid": "28992e1d-abb9-417f-8b1b-05e053bee670",
+      "Name": "Properties",
+      "Version": "2.19",
+      "Data": {}
+    }
+  ],
+  "Author": "",
+  "Linting": {
+    "activeLinter": "None",
+    "activeLinterId": "7b75fb44-43fd-4631-a878-29f4d5d8399a",
+    "warningCount": 0,
+    "errorCount": 0
+  },
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.19.0.5742",
+      "RunType": "Automatic",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "_Background Preview",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "ConnectorPins": [],
+    "NodeViews": [
+      {
+        "Id": "6b55b2a82e5c4cc4869f012d8a11605e",
+        "Name": "FileSystem.ReadText",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": 381.31448840071613,
+        "Y": 188.46509874096014
+      },
+      {
+        "Id": "be2b923f809440cc8332a0a3f2ed5daa",
+        "Name": "File From Path",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": 116.66666666666663,
+        "Y": 187.99999999999997
+      },
+      {
+        "Id": "87912472515841af8a25bd2481021b17",
+        "Name": "File Path",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": -514.467653469945,
+        "Y": 186.91583772129547
+      },
+      {
+        "Id": "b8b1532648d64982bc3ab3f6c6d80c2d",
+        "Name": "Watch",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "ShowGeometry": true,
+        "X": 955.11092604874443,
+        "Y": -47.816439919853508
+      }
+    ],
+    "Annotations": [],
+    "X": 195.82274744871461,
+    "Y": 119.47428789197096,
+    "Zoom": 0.87853075737805464
+  }
+}

@@ -1,0 +1,10 @@
+Type: AD_LINE
+Start X: -77.31
+Start Y: 0
+Start Z: -2.29
+End X: -77.31
+End Y: 0
+End Z: -14.76
+Parent Sketch Name: 3D Sketch<4>
+Part Name: 3DSketchProfileDevelopment
+Length: 12.4729309082031

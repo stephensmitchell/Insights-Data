@@ -1,0 +1,10 @@
+Start X: -4.1059724610316
+Start Y: 18.60224422346
+End X: -14.0570297797975
+End Y: 12.8569986299247
+Center X: 0
+Center Y: 0
+IncludedAngle: 0.612714897107831
+Radius: 19.0500000000004
+Parent Sketch Name: Sketch<4>
+Type: AD_CIRCULAR_ARC

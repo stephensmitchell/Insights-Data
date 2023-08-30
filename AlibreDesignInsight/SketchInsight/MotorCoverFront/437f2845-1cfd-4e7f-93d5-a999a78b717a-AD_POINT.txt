@@ -1,0 +1,5 @@
+X: 0
+Y: 0
+Parent Sketch Name: Sketch<5>
+Type: AD_POINT
+Part Name: MotorCoverFront

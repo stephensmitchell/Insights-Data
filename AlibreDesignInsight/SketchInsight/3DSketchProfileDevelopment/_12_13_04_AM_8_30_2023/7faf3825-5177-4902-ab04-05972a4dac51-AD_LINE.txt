@@ -1,0 +1,10 @@
+X0: -77.31
+Y0: 0
+Z0: -2.29
+X1: -77.31
+Y1: 0
+Z1: -14.76
+Parent Sketch Name: 3D Sketch<4>
+Type: AD_LINE
+Part Name: 3DSketchProfileDevelopment
+Length: 12.4729309082031

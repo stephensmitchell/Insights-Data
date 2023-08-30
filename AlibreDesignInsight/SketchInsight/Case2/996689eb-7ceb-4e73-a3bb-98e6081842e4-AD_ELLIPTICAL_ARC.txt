@@ -1,0 +1,12 @@
+Start X: 6.46107175964738
+Start Y: -22.86
+End X: 12.1073518042592
+End Y: -12.7
+Center X: 6.46107175964738
+Center Y: -12.7
+Major Radius: 10.16
+MajorAxisAngle: 1.5707963267949
+MinorMajorRatio: 0.555736224863368
+Parent Sketch Name: Sketch<2>
+Type: AD_ELLIPTICAL_ARC
+Part Name: Case2

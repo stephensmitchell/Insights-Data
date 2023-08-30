@@ -1,0 +1,15 @@
+Type: AD_CIRCULAR_ARC
+Start X: 11.4329448654497
+Start Y: 13.5490648984913
+Start Z: 0
+End X: -4.76238776094754
+End Y: 12.08061816597
+End Z: 0
+Center X: 3.70288467407227
+Center Y: 8.76055526733398
+Center Z: 1.4210854715202E-14
+IncludedAngle: 2.21322025822512
+IsRightHandRule: True
+Radius: 9.09305531985841
+Parent Sketch Name: 3D Sketch<1>
+Part Name: 3DSketchProfileDevelopment

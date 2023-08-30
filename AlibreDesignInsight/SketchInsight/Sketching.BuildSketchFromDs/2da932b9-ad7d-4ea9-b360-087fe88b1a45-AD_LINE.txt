@@ -1,0 +1,8 @@
+X1: -2.5
+Y1: -1.5
+X2: -1.5
+Y2: -1.5
+Parent Sketch Name: test2
+Parent Sketch Plane: YZ-Plane
+Type: AD_LINE
+ID: 8

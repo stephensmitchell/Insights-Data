@@ -1,0 +1,6 @@
+X: -3
+Y: 3
+Parent Sketch Name: Sketch<3>
+Parent Sketch Plane: XY-Plane
+Type: AD_POINT
+ID: 12

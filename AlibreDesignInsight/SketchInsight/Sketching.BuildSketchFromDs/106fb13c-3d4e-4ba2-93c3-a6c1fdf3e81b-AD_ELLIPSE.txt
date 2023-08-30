@@ -1,0 +1,9 @@
+Center X: 0
+Center Y: 0
+Major Radius: 3
+MajorAxisAngle: 0
+MinorMajorRatio: 0.3
+Parent Sketch Name: test2
+Parent Sketch Plane: YZ-Plane
+Type: AD_ELLIPSE
+ID: 19

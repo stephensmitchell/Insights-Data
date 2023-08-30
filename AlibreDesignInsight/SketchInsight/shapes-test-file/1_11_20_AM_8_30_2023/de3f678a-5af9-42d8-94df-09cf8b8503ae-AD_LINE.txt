@@ -1,0 +1,9 @@
+Start X: -1.86
+Start Y: 1.09
+End X: -1.86
+End Y: 2
+Line: -1.86, 1.09, -1.86, 2
+Parent Sketch Name: Sketch<1>
+Type: AD_LINE
+Part Name: shapes-test-file
+Length: 0.91642665863037

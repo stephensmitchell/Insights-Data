@@ -1,0 +1,8 @@
+X1: -5.90774140490233
+Y1: 12.099227112607
+X2: 1.35456961337174
+Y2: 14.40644159632
+Parent Sketch Name: Sketch<1>
+Parent Sketch Plane: XY-Plane
+Type: AD_LINE
+ID: 2

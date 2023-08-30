@@ -1,0 +1,5 @@
+X: 0
+Y: 0
+Parent Sketch Name: Sketch<1>
+Type: AD_POINT
+Part Name: plate

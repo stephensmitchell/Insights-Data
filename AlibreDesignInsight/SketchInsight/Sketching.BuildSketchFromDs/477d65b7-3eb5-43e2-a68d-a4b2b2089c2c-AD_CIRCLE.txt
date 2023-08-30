@@ -1,0 +1,7 @@
+Radius: 1
+Center X: -1.5
+Center Y: 0
+Parent Sketch Name: test2
+Parent Sketch Plane: YZ-Plane
+Type: AD_CIRCLE
+ID: 6

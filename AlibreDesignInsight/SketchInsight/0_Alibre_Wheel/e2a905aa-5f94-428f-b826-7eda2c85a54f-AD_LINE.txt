@@ -1,0 +1,6 @@
+X1: 2.9329393674833
+Y1: 5.08
+X2: -2.9329393674833
+Y2: 5.08
+Parent Sketch Name: Sketch<3>
+Type: AD_LINE

@@ -1,0 +1,11 @@
+Start X: 2.25223317142054
+Start Y: -2.12536528386334
+End X: 3.09526255332729
+End Y: -0.0952972941296176
+Center X: 0
+Center Y: 0
+IncludedAngle: 0.725646720991196
+Radius: 3.09672921778743
+Parent Sketch Name: Sketch<2>
+Type: AD_CIRCULAR_ARC
+Part Name: MotorCoverFront
