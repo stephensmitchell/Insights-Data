@@ -1,0 +1,11 @@
+Type: AD_LINE
+StartPoint X: -2.54
+StartPoint Y: 11.36
+StartPoint: -2.54,11.3613776993668
+EndPoint X: -2.54
+EndPoint Y: 9.84
+EndPoint: -2.54,9.83737769936684
+Line: -2.54, 11.36, -2.54, 9.84
+Parent Sketch Name: Sketch<1>
+Part Name: simple-test-model
+Length: 1.52399999999996

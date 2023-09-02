@@ -1,0 +1,9 @@
+Type: AD_LINE
+Start X: -2.54
+Start Y: 11.36
+End X: -2.54
+End Y: 9.84
+Line: -2.54, 11.36, -2.54, 9.84
+Parent Sketch Name: Sketch<1>
+Part Name: simple-test-model
+Length: 1.52399999999996

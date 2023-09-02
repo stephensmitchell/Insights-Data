@@ -1,0 +1,23 @@
+Type: PolyCurve
+ControlPoints: 0, 0, 15, 0, 10, 15, 0, 10, 15, 10, 300, 15, 10, 300, 15, 10, 10, 15
+NumberOfCurves: 3
+StartPoint X: 0
+StartPoint Y: 0
+StartPoint Z: 15
+StartPoint: 0, 0, 15
+EndPoint X: 10
+EndPoint Y: 10
+EndPoint Z: 15
+EndPoint: 10, 10, 15
+IsClosed: False
+IsPlanar: True
+Length: 590.172362570938
+Normal X: 0
+Normal Y: 0
+Normal Z: -1
+Normal: 0, 0, -1
+Normal.Length: 1
+Normal.Normalized X: 0
+Normal.Normalized Y: 0
+Normal.Normalized Z: -1
+Normal.Normalized: 0, 0, -1

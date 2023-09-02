@@ -1,0 +1,24 @@
+Type: Polygon
+ControlPoints: 1, 0, 0, 0.309, 0.9511, 0, -0.809, 0.5878, 0, -0.809, -0.5878, 0, 0.309, -0.9511, 0
+StartPoint X: 1
+StartPoint Y: 0
+StartPoint Z: 0
+StartPoint: 1, 0, 0
+EndPoint X: 1
+EndPoint Y: 0
+EndPoint Z: 0
+EndPoint: 1, 0, 0
+IsClosed: True
+IsPlanar: True
+Length: 5.87785252292473
+Normal X: 0
+Normal Y: 0
+Normal Z: 1
+Normal: 0, 0, 1
+Normal.Length: 1
+Normal.Normalized X: 0
+Normal.Normalized Y: 0
+Normal.Normalized Z: 1
+Normal.Normalized: 0, 0, 1
+NumberOfCurves: 5
+PlaneDeviation: 0

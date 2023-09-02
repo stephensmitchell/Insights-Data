@@ -1,0 +1,14 @@
+Type: AD_CIRCULAR_ARC
+StartPoint X: -2.54
+StartPoint Y: 9.83737769936684
+StartPoint: -2.54,9.83737769936684
+CenterPoint X: 0
+CenterPoint Y: 0
+CenterPoint: 0,0
+EndPoint X: -2.78673868712523
+EndPoint Y: 9.7703473576777
+EndPoint: -2.78673868712523,9.7703473576777
+IncludedAngle: 0.0251661693433487
+Radius: 10.1600000000355
+Parent Sketch Name: Sketch<1>
+Part Name: simple-test-model

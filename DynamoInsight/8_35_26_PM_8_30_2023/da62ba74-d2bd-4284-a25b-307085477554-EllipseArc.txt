@@ -1,0 +1,26 @@
+Type: EllipseArc
+StartPoint X: 4
+StartPoint Y: 0
+StartPoint Z: 0
+StartPoint: 4, 0, 0
+CenterPoint X: 0
+CenterPoint Y: 0
+CenterPoint Z: 0
+CenterPoint: 0, 0, 0
+EndPoint X: -4
+EndPoint Y: 0
+EndPoint Z: 0
+EndPoint: -4, 0, 0
+Normal X: 0
+Normal Y: 0
+Normal Z: 1
+Normal: 0, 0, 1
+Normal Length: 1
+IsClosed: False
+IsPlanar: True
+StartAngle: 0
+SweepAngle: 180
+MinorAxis: -4, 0, 0
+MajorAxis: 0, 5, 0
+MajorAxis Length: 5
+MinorAxis Length: 4
