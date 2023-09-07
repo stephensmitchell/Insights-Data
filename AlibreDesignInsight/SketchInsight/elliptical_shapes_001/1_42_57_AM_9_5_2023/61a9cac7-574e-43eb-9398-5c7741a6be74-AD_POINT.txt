@@ -1,0 +1,7 @@
+Type: AD_POINT
+Point_X: 6.2
+Point_Y: -4.4
+Point: 6.2,-4.4
+IsSketchNode: True
+Parent_Sketch_Name: Sketch<1>
+Part_Name: elliptical_shapes_001

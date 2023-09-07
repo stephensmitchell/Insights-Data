@@ -1,0 +1,27 @@
+Type: NurbsCurve
+ControlPoints: 0, 0, 5, 0, 3.3333, 5, 0, 6.6667, 5, 0, 10, 5
+Knots: 0, 0, 0, 0, 10, 10, 10, 10
+Weights: 1, 1, 1, 1
+StartPoint X: 0
+StartPoint Y: 0
+StartPoint Z: 5
+StartPoint: 0,0,5
+EndPoint X: 0
+EndPoint Y: 10
+EndPoint Z: 5
+EndPoint: 0,10,5
+Degree: 3
+IsClosed: False
+IsPeriodic: False
+IsPlanar: True
+IsRational: False
+Length: 10
+Normal X: 0
+Normal Y: 1
+Normal Z: 0
+Normal: 0,1,0
+Normal.Length: 1
+Normal.Normalized X: 0
+Normal.Normalized Y: 1
+Normal.Normalized Z: 0
+Normal.Normalized: 0,1,0

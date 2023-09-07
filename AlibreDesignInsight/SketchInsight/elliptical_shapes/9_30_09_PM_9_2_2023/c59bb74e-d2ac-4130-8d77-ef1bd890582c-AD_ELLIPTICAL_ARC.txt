@@ -1,0 +1,15 @@
+Type: AD_ELLIPTICAL_ARC
+StartPoint X: 6.11
+StartPoint Y: 9.32
+StartPoint: 6.11,9.32
+CenterPoint X: 4.81
+CenterPoint Y: 11.43
+CenterPoint: 4.81,11.43
+EndPoint X: 5.24
+EndPoint Y: 8.98
+EndPoint: 5.24,8.98
+Major Radius: 2.52
+MajorAxisAngle: 3.98
+MinorMajorRatio: 0.98
+Parent Sketch Name: Sketch<1>
+Part Name: elliptical_shapes

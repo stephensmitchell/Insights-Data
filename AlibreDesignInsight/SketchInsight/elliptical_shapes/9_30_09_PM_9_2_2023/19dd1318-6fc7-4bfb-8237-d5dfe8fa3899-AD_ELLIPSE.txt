@@ -1,0 +1,9 @@
+Type: AD_ELLIPSE
+CenterPoint X: -5.85
+CenterPoint Y: -1.37
+CenterPoint: -5.85,-1.37
+Major Radius: 3.11
+MajorAxisAngle: 3.99
+MinorMajorRatio: 0.11
+Parent Sketch Name: Sketch<1>
+Part Name: elliptical_shapes

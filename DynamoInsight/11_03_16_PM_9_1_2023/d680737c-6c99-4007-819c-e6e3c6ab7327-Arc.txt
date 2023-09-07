@@ -1,0 +1,24 @@
+Type: Arc
+Radius: 12
+StartPoint X: 47.5
+StartPoint Y: 61.7366945943055
+StartPoint Z: 10
+StartPoint: 47.5,61.7366945943055,10
+CenterPoint X: 50
+CenterPoint Y: 50
+CenterPoint Z: 10
+CenterPoint: 50,50,10
+EndPoint X: 47.5
+EndPoint Y: 38.2633054056945
+EndPoint Z: 10
+EndPoint: 47.5,38.2633054056945,10
+Normal X: 0
+Normal Y: 0
+Normal Z: 1
+Normal: 0,0,1
+Normal Length: 1
+IsClosed: False
+IsPlanar: True
+Length: 32.6622176287718
+StartAngle: 102.024699180566
+SweepAngle: 155.950601638868

@@ -1,0 +1,11 @@
+Type: AD_LINE
+StartPoint_X: 3.9
+StartPoint_Y: 12.9
+StartPoint: 3.9,12.9
+EndPoint_X: 3.1
+EndPoint_Y: 7.6
+EndPoint: 3.1,7.6
+Length: 5.36361950296409
+Line: 3.9, 12.9, 3.1, 7.6
+Parent_Sketch_Name: Sketch<2>
+Part_Name: elliptical_shapes_001

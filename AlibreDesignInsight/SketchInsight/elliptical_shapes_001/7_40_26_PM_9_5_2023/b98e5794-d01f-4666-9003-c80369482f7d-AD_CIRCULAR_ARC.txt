@@ -1,0 +1,15 @@
+Type: AD_CIRCULAR_ARC
+Radius: 4.5
+StartPoint_X: 18
+StartPoint_Y: 12
+StartPoint: 18,12
+CenterPoint_X: 15.5154
+CenterPoint_Y: 15.7519
+CenterPoint: 15.5154,15.7519
+EndPoint_X: 17
+EndPoint_Y: 20
+EndPoint: 17,20
+IncludedAngle: 2.22048467022716
+IsRightHandRule: True
+Parent_Sketch_Name: Sketch<5>
+Part_Name: elliptical_shapes_001

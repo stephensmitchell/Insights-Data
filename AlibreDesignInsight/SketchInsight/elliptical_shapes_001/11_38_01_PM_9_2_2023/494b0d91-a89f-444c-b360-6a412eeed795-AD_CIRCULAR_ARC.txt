@@ -1,0 +1,14 @@
+Type: AD_CIRCULAR_ARC
+StartPoint X: 4.7
+StartPoint Y: 1.2
+StartPoint: 4.7,1.2
+CenterPoint X: 4.1
+CenterPoint Y: 1.8
+CenterPoint: 4.1,1.8
+EndPoint X: 4.8
+EndPoint Y: 2.2
+EndPoint: 4.8,2.2
+IncludedAngle: 1.3
+Radius: 0.9
+Parent Sketch Name: Sketch<1>
+Part Name: elliptical_shapes_001

@@ -1,0 +1,24 @@
+Type: Arc
+Radius: 1
+StartPoint X: 1
+StartPoint Y: 0
+StartPoint Z: 0
+StartPoint: 1,0,0
+CenterPoint X: 0
+CenterPoint Y: 1.11022302462516E-16
+CenterPoint Z: 0
+CenterPoint: 0,1.11022302462516E-16,0
+EndPoint X: 0
+EndPoint Y: 1
+EndPoint Z: 0
+EndPoint: 0,1,0
+Normal X: 0
+Normal Y: 0
+Normal Z: 1
+Normal: 0,0,1
+Normal Length: 1
+IsClosed: False
+IsPlanar: True
+Length: 1.5707963267949
+StartAngle: 0
+SweepAngle: 90

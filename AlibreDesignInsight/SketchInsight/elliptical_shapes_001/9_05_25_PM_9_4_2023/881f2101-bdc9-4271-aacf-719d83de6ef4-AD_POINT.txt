@@ -1,0 +1,6 @@
+Type: AD_POINT
+Point X: 4.4
+Point Y: 5.1
+Point: 4.4,5.1
+Parent Sketch Name: Sketch<1>
+Part Name: elliptical_shapes_001

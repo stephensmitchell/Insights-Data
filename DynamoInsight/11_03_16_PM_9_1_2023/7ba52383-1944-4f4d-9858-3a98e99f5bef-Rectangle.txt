@@ -1,0 +1,20 @@
+Type: Rectangle
+StartPoint X: 0.5
+StartPoint Y: -0.5
+StartPoint Z: 0
+StartPoint: 0.5,-0.5,0
+EndPoint X: 0.5
+EndPoint Y: -0.5
+EndPoint Z: 0
+EndPoint: 0.5,-0.5,0
+Normal X: 0
+Normal Y: 0
+Normal Z: 1
+Normal: 0,0,1
+IsClosed: True
+IsPlanar: True
+Length: 4
+Width: 1
+Height: 1
+NumberOfCurves: 4
+PlaneDeviation: 0

@@ -1,0 +1,7 @@
+Type: AD_CIRCLE
+Radius: 5.7397
+CenterPoint_X: 0
+CenterPoint_Y: 0
+CenterPoint: 0,0
+Parent_Sketch_Name: Sketch<4>
+Part_Name: elliptical_shapes_001
